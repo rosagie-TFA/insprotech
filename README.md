@@ -1,2 +1,0 @@
-# insprotech
-inspiration technology

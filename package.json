@@ -1,0 +1,26 @@
+{
+  "name": "insprotech",
+  "version": "1.0.0",
+  "description": "inspiration technology",
+  "main": "index.js",
+  "dependencies": {
+    "webdriverio": "^4.8.0"
+  },
+  "devDependencies": {
+    "wdio-cucumber-framework": "^1.0.2",
+    "wdio-dot-reporter": "0.0.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosagie-TFA/insprotech.git"
+  },
+  "author": "ROsagie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosagie-TFA/insprotech/issues"
+  },
+  "homepage": "https://github.com/rosagie-TFA/insprotech#readme"
+}
